@@ -28,4 +28,5 @@ Run each exercise like this:
 |       | Part 1                           | Part 2                           |
 |-------|----------------------------------|----------------------------------|
 | Day 1 | [Check solution](2021/day1/1.js) | [Check solution](2021/day1/2.js) |
+| Day 2 | [Check solution](2021/day2/1.js) | [Check solution](2021/day2/2.js) |
 
