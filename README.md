@@ -31,4 +31,5 @@ Run each exercise like this:
 | Day 2 | [Check solution](2021/day2/1.js) | [Check solution](2021/day2/2.js) |
 | Day 3 | [Check solution](2021/day3/1.js) | [Check solution](2021/day3/2.js) |
 | Day 4 | [Check solution](2021/day4/1.js) | [Check solution](2021/day4/2.js) |
+| Day 5 | [Check solution](2021/day5/1.js) | [Check solution](2021/day5/2.js) |
 
